@@ -1,0 +1,78 @@
+.body{
+
+background-color: #666666;
+}
+
+.all{
+
+
+color: #ffffff
+}
+#gif{
+height: 405.5px;
+width: 680.5px;
+
+}
+.p{font-family: Georgia, "Times new Roman", Times, serif;
+
+font-style: italic;
+color: #444444;
+line-height: 1.9em;
+
+border-color: black;
+
+border-width: 1px;
+border-style: solid;
+background-color: #a7cece;
+border-radius: 3em;
+border-style: dashed;
+border-color: white;
+
+padding: 25px;
+padding-left: 70px;
+
+margin: 30px;
+margin-right: 250px;
+
+background-image:url(1200px-Pacman.svg.png);
+
+background-repeat: no-repeat;
+background-position: top left;}
+#c{
+color: red;
+}
+.o{
+color: orange;
+
+}
+#l{
+
+color: aquamarine;
+}
+
+#r{
+
+color: #5ac18e;
+}
+
+#s{
+color: yellow;
+
+}
+a:link{
+
+color: #ffff44;
+}
+a:visited{
+
+color: hotpink;
+}
+#skins{background-color: #93c572;}
+
+#gameplay{
+background-color: #129cff;
+}
+a:hover{
+
+color: #0ff1ce;
+}
